@@ -1,0 +1,501 @@
+traffic_density,avg_speed,weather,time_of_day,road_type,previous_accidents,accident_risk
+112,42,Rainy,Morning,Highway,6,63.75575289106863
+189,29,Rainy,Afternoon,Rural Road,4,92.30191283355494
+102,88,Rainy,Afternoon,Rural Road,0,52.70443123455602
+24,119,Foggy,Night,City Road,5,29.557803172185743
+116,53,Snowy,Afternoon,City Road,4,79.8158385709239
+81,71,Foggy,Night,Rural Road,2,61.36198706850666
+198,114,Clear,Morning,Rural Road,6,76.26981749065878
+30,29,Foggy,Afternoon,Highway,9,51.22648466366603
+112,38,Foggy,Night,Highway,8,86.56800053284859
+131,77,Foggy,Morning,City Road,8,74.23649580169045
+84,115,Foggy,Afternoon,Rural Road,8,56.350415821448564
+97,20,Snowy,Morning,City Road,1,54.738688933591746
+126,88,Clear,Afternoon,Rural Road,2,58.06242547474682
+109,23,Snowy,Morning,Highway,6,87.96125798334872
+113,35,Snowy,Morning,City Road,4,85.20629607273935
+161,43,Foggy,Night,City Road,1,84.41451871706863
+140,99,Rainy,Morning,Rural Road,2,58.1889396981911
+159,21,Rainy,Afternoon,Highway,9,96.84387128037511
+62,111,Snowy,Afternoon,City Road,5,47.40807280405854
+11,51,Snowy,Night,Highway,6,53.60895949909733
+97,110,Foggy,Afternoon,City Road,8,67.93040139192344
+167,103,Snowy,Afternoon,Highway,0,78.63466611942154
+47,43,Foggy,Afternoon,Rural Road,6,60.999229617600236
+139,31,Rainy,Morning,City Road,7,80.48163124911517
+197,69,Rainy,Morning,City Road,2,76.91008706621719
+30,54,Clear,Afternoon,Highway,3,28.065598229800703
+170,52,Rainy,Night,Highway,9,94.46760554049236
+67,52,Snowy,Morning,City Road,5,63.53682753408089
+31,80,Rainy,Night,Rural Road,9,58.86792313116624
+98,70,Foggy,Afternoon,Highway,6,61.38410524659828
+58,62,Rainy,Afternoon,Highway,3,51.46344284479761
+68,31,Clear,Morning,Highway,7,50.844381994787156
+179,86,Rainy,Afternoon,City Road,4,80.39316352825782
+197,84,Foggy,Morning,City Road,0,75.56394160426088
+24,52,Foggy,Afternoon,City Road,3,31.67879869863529
+199,59,Snowy,Afternoon,City Road,2,102.32022698180523
+199,93,Rainy,Morning,Rural Road,8,95.78421948546216
+184,62,Foggy,Morning,Rural Road,7,95.39336221440892
+199,63,Clear,Morning,City Road,0,74.43495358612435
+60,48,Snowy,Afternoon,Rural Road,5,69.9796960885205
+117,32,Clear,Afternoon,Highway,8,64.8872707155673
+64,31,Rainy,Night,Highway,6,59.35473661326853
+73,114,Rainy,Morning,Highway,3,38.07132339810913
+140,65,Rainy,Afternoon,City Road,0,58.72855288415376
+60,21,Snowy,Afternoon,Highway,1,60.267789660833145
+144,54,Foggy,Morning,Rural Road,4,73.61709097688298
+30,106,Snowy,Night,City Road,4,48.13214991216763
+82,100,Clear,Morning,Rural Road,7,48.421792588512574
+176,109,Snowy,Night,Highway,5,79.92434092047245
+27,27,Clear,Afternoon,Highway,7,50.52369677228586
+141,112,Snowy,Night,Highway,1,65.22704211600976
+98,45,Foggy,Afternoon,City Road,2,61.3487378149281
+69,93,Clear,Morning,Rural Road,5,43.10284598615472
+23,109,Rainy,Morning,City Road,9,40.84318674714358
+18,53,Rainy,Morning,City Road,2,25.720890905108014
+99,26,Snowy,Night,Highway,5,81.80839924923986
+62,87,Rainy,Afternoon,City Road,5,49.34408250165287
+139,77,Clear,Morning,City Road,1,58.765528036315715
+93,94,Rainy,Morning,Highway,6,50.982207776386126
+101,48,Foggy,Afternoon,City Road,1,61.86486080458339
+120,55,Foggy,Morning,Highway,5,64.8620488967564
+197,108,Snowy,Afternoon,Highway,0,80.93071941523188
+181,40,Clear,Afternoon,Highway,2,72.93930494007196
+17,55,Foggy,Afternoon,Highway,1,19.493247582526966
+184,29,Foggy,Afternoon,City Road,6,104.58279902078833
+44,92,Clear,Afternoon,Highway,3,33.31967420543098
+90,43,Rainy,Night,Highway,7,57.58533782229081
+173,83,Rainy,Morning,City Road,5,72.25134647645031
+59,118,Snowy,Night,City Road,9,65.19577130502599
+113,68,Rainy,Morning,Rural Road,3,71.5874773485585
+141,118,Clear,Night,City Road,4,61.803968538377035
+11,55,Foggy,Afternoon,City Road,8,45.65998529385433
+143,101,Rainy,Morning,Rural Road,6,68.7855177944758
+63,115,Snowy,Morning,City Road,9,62.774382095740926
+115,43,Rainy,Night,City Road,8,78.67017910437733
+13,42,Clear,Night,City Road,6,38.504039966748735
+63,81,Snowy,Morning,City Road,0,42.28628238908984
+155,115,Rainy,Night,Rural Road,7,75.73335695870644
+53,56,Snowy,Night,City Road,3,61.31335157997398
+171,31,Clear,Night,City Road,2,92.2233922923478
+199,74,Foggy,Afternoon,Rural Road,6,102.51539636558013
+23,32,Clear,Afternoon,Highway,2,31.238232489368563
+104,42,Clear,Night,Rural Road,7,73.34094365542228
+57,108,Clear,Night,Highway,5,29.684045956516716
+24,118,Clear,Afternoon,Rural Road,4,30.015548885735797
+199,49,Foggy,Afternoon,Rural Road,3,99.51081401493599
+49,36,Foggy,Morning,City Road,7,57.597600432046875
+91,81,Snowy,Morning,Highway,7,80.0655378392243
+120,103,Rainy,Afternoon,City Road,0,52.89376454182843
+62,108,Foggy,Night,Highway,8,51.24104474952408
+33,105,Foggy,Night,Rural Road,4,42.768212018972285
+163,32,Rainy,Night,Rural Road,3,97.24222854598378
+197,78,Foggy,Night,Highway,5,96.06635205268883
+133,38,Clear,Morning,City Road,5,62.10861010841316
+50,68,Clear,Afternoon,City Road,1,38.996144672876014
+166,119,Rainy,Night,City Road,7,76.65927957230502
+24,31,Snowy,Morning,City Road,6,64.36648888108773
+54,80,Snowy,Night,Rural Road,0,58.60024032857324
+74,38,Rainy,Afternoon,Rural Road,4,59.36339052170624
+98,95,Rainy,Morning,Rural Road,5,61.80508180867557
+80,28,Clear,Afternoon,Rural Road,3,58.73927755263702
+18,90,Snowy,Afternoon,Rural Road,1,42.663868375611095
+97,47,Foggy,Morning,City Road,3,65.12366408647237
+138,97,Clear,Morning,City Road,0,44.76821672504563
+145,114,Rainy,Morning,City Road,6,61.482250838412696
+72,71,Snowy,Morning,City Road,1,56.549804087905805
+148,102,Foggy,Morning,Rural Road,1,64.3261233394673
+90,35,Foggy,Morning,Rural Road,8,73.98175768379002
+145,88,Clear,Morning,Rural Road,4,59.124387103253234
+172,118,Snowy,Night,Highway,1,79.11799532796731
+172,31,Snowy,Afternoon,City Road,8,117.71262459621573
+42,44,Rainy,Morning,City Road,8,46.462335428728636
+132,71,Snowy,Night,Rural Road,0,78.5210972833638
+14,104,Snowy,Night,City Road,2,44.461102777077144
+50,119,Clear,Night,City Road,3,31.801793043771426
+37,72,Snowy,Afternoon,Rural Road,6,59.961858981248675
+144,42,Foggy,Morning,Highway,9,81.4880323592656
+81,35,Clear,Night,Highway,3,57.44153548603824
+21,76,Clear,Afternoon,Highway,1,20.164278674977258
+171,58,Rainy,Afternoon,Rural Road,6,95.62864997839931
+42,72,Snowy,Afternoon,City Road,5,60.13693025782376
+57,61,Rainy,Night,Rural Road,2,64.84781821009307
+160,77,Foggy,Morning,Rural Road,5,85.49816586606788
+71,58,Clear,Night,City Road,5,56.328981582910835
+46,33,Clear,Night,Highway,4,48.17192150788668
+108,114,Clear,Morning,Highway,3,37.83416853594656
+181,24,Foggy,Morning,Rural Road,9,109.19241921730845
+113,54,Foggy,Morning,Highway,0,55.62299294930485
+44,106,Rainy,Afternoon,Rural Road,9,49.84230488134807
+110,112,Rainy,Morning,Rural Road,5,62.1879876780398
+184,94,Rainy,Night,City Road,1,73.3672871736018
+140,37,Snowy,Morning,City Road,2,86.29939280564523
+10,95,Clear,Night,City Road,7,39.58557533669933
+14,28,Clear,Afternoon,Rural Road,9,50.00965736504461
+151,93,Rainy,Night,City Road,5,66.09072550495702
+112,77,Clear,Night,Highway,2,51.16089006452784
+36,36,Rainy,Morning,Highway,6,51.08497273280555
+146,26,Snowy,Morning,Rural Road,3,89.48565968850558
+24,65,Snowy,Night,Rural Road,8,58.20348883852545
+99,32,Foggy,Morning,City Road,4,65.7761253938589
+51,59,Snowy,Afternoon,Rural Road,2,60.70310013252276
+133,61,Rainy,Afternoon,Rural Road,1,71.4336678410069
+188,28,Snowy,Morning,Highway,1,90.60533950415153
+72,69,Foggy,Afternoon,Highway,2,47.96587794092656
+105,46,Clear,Morning,City Road,1,49.341209254780885
+61,85,Rainy,Night,Rural Road,3,45.68794907750748
+105,24,Clear,Night,Rural Road,1,74.77687844734722
+141,48,Foggy,Afternoon,Highway,9,87.08839765394329
+160,56,Foggy,Morning,Rural Road,8,98.88579260412747
+152,57,Foggy,Morning,Highway,1,77.80658025961226
+180,102,Clear,Afternoon,City Road,8,85.5915544907398
+38,27,Clear,Night,Highway,5,45.84189843640976
+45,84,Clear,Afternoon,Rural Road,0,32.71865045168305
+22,105,Clear,Night,City Road,3,26.47902196804542
+169,36,Foggy,Morning,Highway,0,72.98149069634935
+80,90,Foggy,Night,Highway,5,59.62179640860801
+196,108,Rainy,Afternoon,City Road,3,73.30480104420097
+95,64,Rainy,Morning,City Road,2,57.63839694230782
+37,23,Clear,Afternoon,Highway,2,36.17691351350803
+75,55,Snowy,Afternoon,Rural Road,8,77.5057982793642
+179,89,Snowy,Night,Highway,5,94.31643935773072
+54,50,Foggy,Afternoon,City Road,8,61.90547513147962
+71,38,Foggy,Night,Highway,4,66.63346900737638
+194,80,Foggy,Morning,City Road,1,78.82548171688737
+143,73,Rainy,Night,City Road,7,86.65648648728622
+37,58,Rainy,Morning,Rural Road,4,35.77010159876626
+37,110,Foggy,Night,City Road,1,36.73189789773206
+117,93,Foggy,Afternoon,City Road,3,73.19464499529143
+53,109,Foggy,Night,Rural Road,8,53.098343376972124
+93,38,Snowy,Night,City Road,3,72.91127514737573
+39,58,Rainy,Morning,Rural Road,3,43.669539248294576
+199,86,Snowy,Afternoon,Rural Road,1,94.39790890969799
+84,64,Snowy,Night,City Road,5,74.1531504963678
+137,32,Foggy,Afternoon,City Road,1,80.14593565073832
+101,111,Foggy,Night,Highway,6,65.27360734280884
+199,77,Clear,Night,Rural Road,2,91.84849920978111
+138,39,Clear,Afternoon,Highway,2,67.64909328464256
+130,111,Snowy,Night,City Road,4,73.59371172690729
+36,91,Rainy,Afternoon,Highway,2,32.962868506013656
+199,80,Foggy,Night,Rural Road,1,103.19940967447607
+130,58,Foggy,Morning,Highway,9,78.73683126808714
+125,20,Snowy,Afternoon,Rural Road,8,93.62735347664679
+12,22,Clear,Night,City Road,1,41.735403346434865
+112,96,Rainy,Night,City Road,1,55.79809418023201
+164,111,Clear,Morning,Rural Road,7,60.13665226992982
+146,81,Clear,Afternoon,City Road,8,78.8371083857521
+71,82,Clear,Night,City Road,6,49.223359070230394
+174,44,Clear,Morning,City Road,2,73.94733358847918
+60,75,Foggy,Night,City Road,8,65.65990165284508
+181,52,Foggy,Afternoon,Rural Road,2,92.85249839889534
+161,57,Clear,Night,Highway,4,80.44725908569521
+68,25,Rainy,Night,Highway,8,66.2225681471508
+127,77,Snowy,Night,City Road,2,79.26552899088041
+169,63,Rainy,Night,Highway,6,85.8022666120804
+105,64,Rainy,Morning,Highway,0,51.39405240443752
+189,51,Rainy,Morning,City Road,3,87.57683742006526
+122,64,Clear,Afternoon,City Road,3,56.12280648977703
+71,80,Foggy,Morning,Highway,6,56.729910580875156
+195,66,Rainy,Morning,Rural Road,7,91.62018277442975
+61,40,Clear,Afternoon,City Road,0,45.34028899140572
+21,99,Rainy,Morning,Rural Road,4,31.336436567006704
+48,104,Rainy,Morning,Highway,6,43.79091838397561
+139,94,Clear,Afternoon,City Road,3,58.78267008814074
+140,55,Foggy,Afternoon,Rural Road,3,79.25341601940902
+122,118,Foggy,Afternoon,City Road,3,59.90290197056134
+110,38,Snowy,Night,Highway,5,80.88410108582863
+122,39,Clear,Night,Rural Road,6,82.79970950971025
+193,76,Snowy,Afternoon,Highway,1,79.61844695781707
+90,37,Snowy,Afternoon,Highway,4,65.33158790426822
+196,66,Snowy,Afternoon,City Road,3,92.26098539210403
+122,68,Foggy,Night,Rural Road,2,79.75153795986787
+11,33,Clear,Night,Highway,6,49.25306686290963
+139,34,Snowy,Morning,Highway,5,83.37775390731264
+63,50,Clear,Morning,Rural Road,6,50.05589138404994
+96,20,Clear,Afternoon,Highway,4,61.15026081556591
+138,73,Foggy,Night,Highway,5,84.60939151304095
+156,22,Snowy,Night,Rural Road,4,98.76323432904714
+135,35,Snowy,Night,Rural Road,6,99.69184491367392
+139,106,Clear,Afternoon,Rural Road,1,61.37598814891214
+62,76,Rainy,Morning,Rural Road,4,48.90547084969923
+181,94,Foggy,Afternoon,City Road,5,87.44790808299372
+169,31,Foggy,Morning,Rural Road,5,99.50523046283571
+169,93,Foggy,Morning,City Road,4,63.58383853500381
+77,115,Foggy,Afternoon,City Road,9,62.489376597654534
+192,35,Snowy,Morning,City Road,6,101.32962158436287
+193,91,Snowy,Morning,Highway,9,87.54683551571772
+132,95,Rainy,Night,City Road,7,77.1560129976249
+154,43,Foggy,Morning,City Road,6,93.46829272581478
+47,47,Foggy,Afternoon,Highway,4,50.01275742686154
+33,27,Clear,Afternoon,Highway,0,37.26437273601469
+78,111,Snowy,Morning,Highway,4,56.261391289943234
+125,55,Foggy,Night,Rural Road,9,99.07457226792023
+107,109,Rainy,Night,Highway,1,57.49982264685697
+148,27,Rainy,Morning,Highway,4,79.71063745535946
+153,77,Snowy,Morning,City Road,4,80.87716819450796
+106,79,Rainy,Afternoon,Highway,1,42.99017094051416
+133,69,Rainy,Morning,Rural Road,4,67.86968755935025
+196,47,Snowy,Night,Highway,3,98.18376702341905
+79,111,Foggy,Morning,Rural Road,0,52.35471358748907
+102,60,Foggy,Afternoon,Highway,2,59.72057093783831
+12,119,Rainy,Afternoon,Highway,0,13.41602403392243
+157,83,Rainy,Afternoon,Highway,4,74.25742688020233
+196,46,Foggy,Afternoon,Highway,3,93.81801223186227
+173,82,Snowy,Afternoon,Rural Road,6,104.97525520215376
+156,36,Rainy,Morning,Rural Road,4,79.48675319132774
+99,92,Clear,Morning,City Road,9,57.27303727618621
+156,52,Snowy,Morning,Rural Road,3,83.68764707150976
+157,103,Rainy,Morning,Highway,1,50.899887443896475
+105,96,Rainy,Afternoon,City Road,3,51.24115454547357
+61,111,Clear,Night,City Road,1,32.91481601475794
+170,48,Clear,Morning,City Road,7,80.2534888774137
+177,32,Foggy,Night,Highway,2,89.23789510063072
+137,65,Snowy,Morning,Rural Road,8,82.06841268164082
+48,54,Snowy,Morning,Highway,3,48.18447213685653
+91,25,Foggy,Night,City Road,5,69.77639812984499
+113,101,Snowy,Afternoon,Highway,9,78.500279818448
+138,88,Snowy,Morning,Highway,4,71.21219876467251
+20,66,Snowy,Morning,Rural Road,9,48.51224250267534
+194,44,Snowy,Morning,Rural Road,0,92.85395461475068
+187,85,Snowy,Night,City Road,8,101.33921797204708
+160,29,Clear,Afternoon,Highway,0,71.7958725520959
+168,75,Snowy,Night,Highway,7,103.10225223011572
+51,49,Clear,Night,Rural Road,8,50.12413765177128
+108,24,Snowy,Afternoon,Highway,8,87.17513039573709
+16,52,Foggy,Night,Highway,0,35.5993360221668
+153,84,Rainy,Afternoon,Highway,1,67.45670038225232
+99,37,Clear,Morning,Rural Road,0,53.365983141188444
+121,115,Snowy,Afternoon,City Road,9,73.5401533413059
+69,68,Foggy,Morning,City Road,1,44.50473032166691
+122,30,Rainy,Night,Highway,9,81.61987071598254
+11,104,Clear,Night,City Road,7,36.88003569299299
+138,45,Rainy,Morning,Rural Road,4,75.50655824335972
+57,82,Foggy,Night,Rural Road,6,70.20595342876504
+149,108,Clear,Afternoon,City Road,1,55.79669593092689
+46,105,Rainy,Morning,City Road,7,35.257966165447684
+169,78,Snowy,Night,Highway,5,84.53142803693586
+18,46,Clear,Morning,City Road,7,28.184301618720276
+108,68,Rainy,Afternoon,Highway,0,43.87932028497255
+156,96,Foggy,Afternoon,Highway,0,66.93563325505741
+57,52,Foggy,Night,Rural Road,6,69.24362511614967
+140,117,Clear,Afternoon,Rural Road,7,58.69404648983933
+157,118,Rainy,Morning,Rural Road,2,66.97519157038057
+161,20,Clear,Afternoon,Rural Road,4,83.8846947415828
+63,40,Clear,Morning,City Road,0,38.633965059927746
+129,74,Rainy,Morning,Rural Road,6,78.96110314127714
+170,25,Rainy,Afternoon,City Road,4,94.48419657932766
+161,111,Snowy,Night,Rural Road,7,91.75734676047084
+125,100,Rainy,Afternoon,City Road,7,63.044038872923565
+84,88,Foggy,Morning,Highway,8,46.84092299335347
+122,114,Clear,Morning,City Road,6,49.2042334037879
+173,24,Clear,Afternoon,City Road,0,77.04434880586152
+175,22,Foggy,Night,Rural Road,2,95.16410236424407
+113,72,Rainy,Night,City Road,7,72.84371516453848
+93,42,Foggy,Morning,Highway,2,57.88425941479384
+121,72,Foggy,Morning,Highway,7,68.77572009095961
+108,56,Snowy,Night,Rural Road,0,70.9499870958827
+162,93,Foggy,Afternoon,Highway,4,76.84327335983363
+102,93,Clear,Morning,City Road,3,47.209703247847045
+155,102,Foggy,Morning,Highway,4,62.64800461278576
+137,36,Clear,Night,Rural Road,7,92.95466189873136
+119,104,Clear,Afternoon,City Road,9,63.40705933857869
+91,97,Clear,Night,Rural Road,3,51.99424811472424
+63,92,Rainy,Afternoon,City Road,3,46.041072116282784
+172,20,Snowy,Afternoon,Highway,2,95.7660806563175
+198,70,Clear,Afternoon,Rural Road,6,96.16568316956624
+178,64,Clear,Morning,Rural Road,2,76.03562082600912
+170,96,Rainy,Night,City Road,2,72.7378131267978
+77,23,Clear,Night,Rural Road,9,76.3075176260305
+42,81,Foggy,Afternoon,City Road,4,39.68136896339669
+151,84,Foggy,Morning,City Road,4,74.04279852888261
+30,51,Snowy,Morning,City Road,5,50.633850046777695
+57,53,Clear,Night,City Road,7,54.4594157136373
+157,111,Rainy,Morning,Highway,9,71.25731244280536
+137,114,Foggy,Morning,City Road,5,55.89075477251181
+145,91,Rainy,Afternoon,Rural Road,0,61.55637546129519
+144,58,Rainy,Morning,Highway,7,75.06422450570557
+154,45,Foggy,Afternoon,Rural Road,7,95.99928195998699
+137,53,Rainy,Night,Highway,8,78.3616242953702
+42,73,Foggy,Morning,City Road,8,57.328539204323505
+185,22,Rainy,Night,Highway,1,85.76912575892749
+196,69,Foggy,Night,Highway,1,93.84728600263368
+124,31,Clear,Morning,Rural Road,2,67.13597180935842
+128,84,Snowy,Morning,Rural Road,0,63.36886345078098
+31,73,Foggy,Night,City Road,3,54.576554463047565
+167,24,Foggy,Morning,Highway,3,79.3318158412176
+47,113,Snowy,Afternoon,Highway,8,55.09577086805001
+118,113,Foggy,Afternoon,Highway,8,71.80291159021489
+60,76,Foggy,Morning,City Road,8,52.44689895461677
+191,36,Rainy,Night,City Road,9,115.06232650032163
+17,66,Snowy,Morning,City Road,6,44.64976742700524
+36,42,Clear,Morning,City Road,1,32.84346814639928
+36,98,Foggy,Night,City Road,9,55.501609193856105
+30,104,Snowy,Night,Rural Road,4,48.52845629264726
+39,33,Rainy,Afternoon,Highway,3,48.15404136579891
+106,85,Clear,Night,Highway,7,64.76744360276106
+37,94,Snowy,Afternoon,Highway,1,28.55734013380909
+120,70,Clear,Night,Highway,5,70.52170121439076
+70,57,Clear,Morning,Highway,4,33.28754005982163
+57,83,Clear,Afternoon,Highway,1,35.66273102170829
+156,117,Foggy,Afternoon,Highway,9,85.03352568413793
+13,57,Foggy,Afternoon,Highway,0,25.04516784892401
+44,69,Rainy,Morning,Rural Road,7,46.34592856022707
+58,117,Rainy,Morning,Highway,1,19.47147665757032
+26,101,Snowy,Morning,Rural Road,6,43.525394848556324
+181,49,Rainy,Morning,City Road,8,90.9598285790713
+167,98,Clear,Morning,Highway,8,74.3983026613467
+55,110,Clear,Afternoon,City Road,7,46.05154373059804
+126,70,Foggy,Morning,City Road,9,85.77841905394978
+15,82,Clear,Afternoon,City Road,8,32.28915986710849
+108,117,Snowy,Morning,Rural Road,1,54.95389063127736
+133,71,Clear,Night,City Road,5,62.28280903889525
+46,57,Clear,Afternoon,City Road,3,35.370649667519054
+33,116,Snowy,Night,City Road,3,47.52425816548729
+102,107,Rainy,Afternoon,Highway,4,58.277914117741155
+55,98,Rainy,Night,Highway,2,31.728255640600388
+190,49,Snowy,Morning,Rural Road,0,89.23767870423553
+104,70,Foggy,Morning,Rural Road,7,71.06797121520536
+108,100,Clear,Morning,Highway,4,45.80080579409803
+197,24,Snowy,Afternoon,Rural Road,2,103.25198240039177
+125,48,Clear,Night,Highway,9,80.02030522232046
+169,23,Foggy,Morning,City Road,6,92.73080326464542
+170,29,Clear,Night,City Road,6,92.1277386456086
+76,75,Snowy,Night,Rural Road,0,63.531421240018496
+137,36,Clear,Morning,Highway,8,73.9321113490547
+27,93,Rainy,Morning,Highway,1,18.318070547367157
+34,36,Foggy,Night,Rural Road,4,58.451950980370846
+63,103,Foggy,Morning,Highway,4,39.85818520397332
+67,107,Foggy,Morning,City Road,7,47.84994485058937
+76,88,Snowy,Morning,Rural Road,7,62.90601968666449
+113,53,Foggy,Afternoon,Rural Road,6,87.29323585252358
+183,25,Rainy,Night,Highway,6,101.7045972397062
+33,72,Snowy,Night,Rural Road,5,57.0225984098542
+123,85,Rainy,Afternoon,Highway,5,66.38477202255368
+41,96,Clear,Night,Highway,8,39.43090255121995
+184,62,Clear,Morning,Highway,5,82.6656231879332
+95,94,Clear,Night,Highway,1,45.548210960990474
+160,42,Clear,Morning,Highway,1,65.06348927997885
+136,74,Rainy,Afternoon,Rural Road,4,75.23858462905139
+164,99,Snowy,Morning,City Road,3,69.54561923965751
+139,114,Snowy,Night,City Road,1,65.26616265545098
+26,94,Foggy,Night,Rural Road,2,35.03037496800472
+113,35,Rainy,Night,Rural Road,6,82.61471547381853
+170,27,Clear,Afternoon,City Road,7,99.26257499742545
+146,23,Rainy,Afternoon,City Road,5,96.35650073096316
+52,23,Foggy,Night,City Road,4,67.19025550720379
+185,75,Foggy,Morning,City Road,0,80.00422237472229
+48,44,Rainy,Afternoon,City Road,7,46.594711329236304
+179,86,Rainy,Night,Highway,2,74.7866310013299
+35,115,Rainy,Night,Rural Road,5,36.561081240458805
+108,86,Snowy,Afternoon,Highway,2,59.09576200874442
+59,46,Clear,Afternoon,City Road,6,50.65928090707605
+162,112,Rainy,Afternoon,City Road,6,71.83954711151436
+161,51,Rainy,Morning,City Road,8,76.20350094812106
+22,69,Rainy,Morning,Highway,4,33.53955128058767
+69,80,Foggy,Night,Highway,7,55.33628487130097
+144,70,Foggy,Afternoon,City Road,9,89.39623432055573
+66,38,Snowy,Morning,Highway,9,79.57041334874987
+45,40,Clear,Afternoon,Highway,7,42.903077042067885
+182,24,Snowy,Night,City Road,0,87.14856238626837
+29,101,Clear,Morning,Highway,4,19.069978890599447
+74,111,Foggy,Morning,Rural Road,2,49.50479817499286
+17,61,Foggy,Morning,Rural Road,0,42.691737271102966
+153,80,Foggy,Night,Rural Road,3,77.75225202773792
+151,41,Snowy,Afternoon,Rural Road,7,102.5834961161826
+124,40,Rainy,Morning,City Road,2,62.87344771609972
+152,89,Rainy,Night,City Road,9,85.27025822847934
+101,20,Foggy,Afternoon,City Road,1,82.52171673508516
+107,24,Rainy,Night,Rural Road,8,78.78514835802424
+75,31,Rainy,Afternoon,Rural Road,9,74.56869830747286
+41,109,Snowy,Night,Highway,4,47.83846585882716
+95,65,Clear,Afternoon,Highway,6,60.92893162469674
+60,53,Foggy,Morning,Rural Road,1,49.88991576735447
+162,68,Foggy,Afternoon,Rural Road,8,96.54025269752051
+195,97,Snowy,Night,Rural Road,8,106.14175716289104
+72,109,Snowy,Night,Rural Road,3,60.145634706225536
+199,64,Rainy,Afternoon,Highway,3,84.18403862251294
+134,46,Foggy,Morning,Rural Road,5,84.10785944928026
+159,92,Clear,Morning,Highway,9,69.45194831978182
+67,45,Snowy,Afternoon,Rural Road,9,79.98550196951092
+67,66,Clear,Afternoon,Rural Road,9,58.753685931575106
+95,105,Clear,Night,Rural Road,5,61.13025125386084
+58,75,Foggy,Morning,Highway,0,36.143031382057565
+189,113,Foggy,Afternoon,Highway,8,79.23483765896559
+179,82,Snowy,Morning,City Road,1,87.60960750356996
+79,67,Foggy,Afternoon,Rural Road,4,57.771338495686905
+24,80,Foggy,Afternoon,City Road,8,44.93116830675591
+63,100,Foggy,Morning,City Road,3,38.92169352978254
+197,45,Clear,Afternoon,Highway,2,88.97219046585408
+110,55,Snowy,Afternoon,Highway,6,66.32162893010653
+17,20,Rainy,Night,City Road,5,66.78874266829997
+62,27,Clear,Afternoon,Rural Road,7,66.48028404533027
+69,118,Foggy,Afternoon,Highway,2,40.21619457064579
+117,71,Clear,Afternoon,Rural Road,4,62.62552999691857
+14,98,Foggy,Night,Rural Road,9,52.02777037428829
+112,66,Foggy,Morning,City Road,3,66.00561214189669
+15,75,Clear,Night,City Road,3,33.72607792975028
+118,105,Snowy,Night,City Road,3,73.17802233001724
+125,33,Foggy,Morning,City Road,9,86.34790340627625
+103,109,Snowy,Night,Highway,7,69.11330789846336
+56,47,Rainy,Morning,Highway,5,45.643633581732445
+108,106,Foggy,Night,City Road,2,59.22545859823659
+64,97,Snowy,Morning,Highway,9,62.46885048433532
+177,107,Snowy,Afternoon,City Road,4,88.66778361140432
+61,21,Rainy,Night,Rural Road,5,52.39805682667859
+153,45,Snowy,Night,Rural Road,4,101.17950388264882
+22,33,Snowy,Night,Rural Road,5,63.97368097359387
+123,78,Rainy,Night,City Road,7,75.20645621777051
+133,75,Foggy,Afternoon,Rural Road,6,78.95740773455557
+115,26,Snowy,Night,Highway,4,89.92056359993006
+167,22,Snowy,Afternoon,Rural Road,9,117.43763231061429
+156,42,Snowy,Afternoon,Rural Road,5,93.53561166088195
+154,37,Clear,Afternoon,Rural Road,3,80.83526143562267
+129,57,Rainy,Afternoon,Highway,8,71.44171632729356
+72,118,Clear,Morning,City Road,3,24.101909176055344
+28,34,Rainy,Morning,Highway,0,27.466413877050176
+101,83,Foggy,Night,City Road,6,75.01196736191378
+67,108,Foggy,Morning,City Road,6,52.26562522688043
+192,47,Snowy,Morning,Rural Road,3,101.76542710048645
+99,93,Rainy,Night,City Road,2,58.72547893423999
+126,58,Foggy,Night,Highway,7,84.78089143557479
+71,76,Rainy,Night,Highway,4,47.89259202388524
+32,36,Foggy,Morning,City Road,9,59.5596127233697
+136,105,Clear,Morning,Rural Road,6,65.8020476261384
+146,109,Foggy,Night,Rural Road,3,79.77145664906787
+149,63,Clear,Afternoon,Highway,3,72.04456685737321
+138,44,Foggy,Night,Rural Road,7,98.14151923600531
+67,36,Snowy,Afternoon,City Road,7,74.65724103770792
+131,32,Clear,Afternoon,City Road,1,71.25075119158214
+10,103,Foggy,Night,Highway,1,26.2673937037547
+43,44,Snowy,Night,City Road,2,53.690626743861415
+105,87,Clear,Night,Highway,2,49.28466518028118
+135,29,Snowy,Morning,City Road,0,72.97548677596775
+127,86,Rainy,Afternoon,Highway,2,54.5241086251281
+57,37,Rainy,Morning,Rural Road,5,53.977406646422416
+98,119,Clear,Morning,City Road,7,42.63790039500019
+126,105,Foggy,Night,City Road,9,78.26019235180479
+138,53,Clear,Morning,Highway,5,55.331926665231066
+25,27,Snowy,Night,Highway,4,58.16646853686469
+198,59,Foggy,Afternoon,City Road,3,94.60602737681111
+78,102,Rainy,Night,Highway,2,39.914556844659046
+31,61,Foggy,Morning,City Road,3,43.396228342162026
+102,60,Rainy,Morning,Rural Road,6,70.28785068813279
+85,25,Foggy,Night,Highway,0,54.46220067815513
+163,71,Foggy,Night,City Road,6,87.88637610716893
+153,45,Foggy,Morning,Rural Road,0,73.05428825106351
+188,83,Snowy,Afternoon,Rural Road,1,86.10048449445567
+95,117,Snowy,Afternoon,City Road,3,61.247374209658744
+194,78,Clear,Night,Highway,0,73.63086930613598
+38,75,Clear,Afternoon,City Road,8,42.07742579344694
+78,78,Rainy,Morning,Rural Road,5,42.780688177966226
+56,89,Snowy,Night,City Road,0,52.17709015104613
+103,52,Rainy,Morning,Highway,0,43.30370802573264
+199,72,Clear,Morning,Rural Road,5,85.59966315133164
+153,41,Rainy,Afternoon,City Road,3,81.08688468979096
+185,40,Clear,Night,Highway,3,92.30329297919326
+94,89,Snowy,Night,Rural Road,5,66.85589800440445
+48,89,Foggy,Afternoon,Highway,6,31.502439220895866
+109,23,Snowy,Morning,Rural Road,8,90.01924772376847
+42,113,Rainy,Morning,City Road,9,49.00255590755427
+110,94,Rainy,Morning,Highway,4,57.39473176469719
